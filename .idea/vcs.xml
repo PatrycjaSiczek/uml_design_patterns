@@ -3,5 +3,12 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Budowniczy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChainofResponsibility" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flyweight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Interpreter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Strategia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TemplateMethod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wizytator" vcs="Git" />
   </component>
 </project>
